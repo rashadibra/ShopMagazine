@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.regstr_div_1,.regstr_div_2{
+background-image: url('https://img.freepik.com/free-photo/old-camera-notebook-laptop-with-blue-pencil-cup-cappuccino-white-background_23-2147979092.jpg?w=2000');
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0px;
+padding: 0px;
+height: 100vh;
+    display: flex;
+}
+.regstr_div,.regstr_div2{
+    color: #4b4545;
+    display: flex;
+    flex-direction: column;
+    margin:100px auto;
+    width: 400px;
+  
+}
+.regstr_div input,.regstr_div2 input{
+    margin: 3px;
+    height: 25px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1.5px solid black;
+ 
+}
+.regstr_div button,.regstr_div2 button{
+ width: 150px;
+ margin:5px auto;
+ background-color: rgb(38, 195, 243);
+ border: 1px solid black;
+ border-radius: 3px;
+ height: 25px;
+}
+.regstr_div button:hover,.regstr_div2 button:hover{
+    background-color:rgb(5, 15, 19);
+    color: aqua;
+    transition: 0.4s;
+}
+
+
+.input-error{
+ border-color: #fc8181;
+}
+.error{
+    color: #fc8181;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 3px;
+}

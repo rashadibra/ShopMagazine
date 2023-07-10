@@ -1,0 +1,38 @@
+.Contact{
+    box-sizing: border-box;
+    width: 95%;
+    min-height: 80vh;
+    margin: 20px auto;
+    display: flex;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.557);
+}
+.left_contact{
+    width: 60%;
+    min-height: 90%;
+    border-left: 1px solid rgba(0, 0, 0, 0.226);
+    border-right: 1px solid rgba(0, 0, 0, 0.226);
+    margin: auto;
+    padding: 20px;
+}
+
+.p{
+
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        padding: 20px;
+        border-radius: 5px;
+
+}
+h2 {
+    color: #333333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .contact-container p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }

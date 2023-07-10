@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "body": {
+        "email": "reshad.ibra@gmail.com",
+        "Name": "resad",
+        "password": "Resad2",
+        "age": 111111
+      },
+      "id": 1
+    },
+    {
+      "body": {
+        "email": "ibrahimlirsad44@gmail.com",
+        "Name": "reeee",
+        "password": "Qqqqqqq2",
+        "age": 222
+      },
+      "id": 2
+    }
+  ]
+}
